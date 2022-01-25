@@ -1,1 +1,7 @@
 title:This is ScriptBeast's god rolls
+
+title:Season of the Chosen
+description:Season 15 - Seasonal Weapons
+
+// Royal Entry
+dimwishlist:item=2448907086&perks=3525010810,2822142346,3300816228,3927722942,1154004463
